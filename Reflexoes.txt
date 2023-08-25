@@ -1,0 +1,912 @@
+Reflexões sobre mundo digital e subjetividade
+
+Resumo O objetivo deste ensaio é apresentar questões urgentes
+a respeito da relação entre o mundo digital que configura a socie-
+dade atual, a partir do avanço ao acesso às tecnologias compu-
+tacionais, e a emergência de subjetividades específicas que res-
+pondem antropologicamente aos aparatos que fomentam sua
+realização. Levo à reflexão crítica o conceito de digital a partir da
+ideia de dígitos, sua lógica matemática clássica e contraposição
+ao analógico, avançando para a ideia insurgente de computação
+quântica, e enfatizo a necessidade de se pensar essas questões a
+partir de uma teoria crítica da tecnologia. Prossigo com aspectos
+históricos do desenvolvimento dos meios de comunicação, que
+ajudam a compreender como, embora cada nova tecnologia de
+comunicação tenha surgido com a promessa de emancipação e
+liberdade, tal promessa jamais foi realizada, na medida em que o
+modo de produção em voga direciona seu desenvolvimento em
+prol de sua manutenção. Tal direcionamento não ocorre apenas
+para com os artefatos, mas com eles e por meio deles, também
+em relação ao desenvolvimento das subjetividades aqui e agora,
+no surgimento dos computer people como tipo antropológico da
+sociedade digital, correlato à geração do rádio, pensado por The-
+odor W. Adorno nos anos 1930. Finalizo com as possibilidades de
+práxis frente às questões colocadas.
+Palavras-chave: Teoria Crítica da Sociedade. Tecnologia. Mun-
+do digital. Computer people.
+
+Introdução
+Este ensaio surgiu a partir de diversas
+inquietações e questionamentos advin-
+dos da vida na sociedade tecnológica di-
+gital e da informação que tem se desenhado e
+ganhado hegemonia nas últimas décadas. Ele
+tenta elaborar alguns temas trabalhados em
+projeto de pesquisa,1 cujo objetivo é pensar
+um novíssimo tipo antropológico de homem
+no mundo digital, a partir de alguns insights
+adornianos e de sua análise do rádio como
+meio tecnológico de sua época e da geração
+do rádio. Tais inquietações e questionamen-
+tos reverberam uma experiência e um estra-
+nhamento que se situam na transição de um
+momento em que computadores pessoais
+eram artigos inimagináveis, e outro muito re-
+cente em que eles não apenas estão em todos
+os espaços da vida – trabalho, entretenimen-
+to, saúde, educação, relações interpessoais
+– redesenhando-se de formas e tamanhos
+1
+A pesquisa em questão é financiada pela FUNCAP,
+processo n. BP2-0107-00067.01.00/15.
+14
+diversos, como parecem direcionar modos de
+pensar e agir frente a problemáticas contem-
+porâneas contraditórias e complexas. Este
+texto foi elaborado para a mesa de abertura
+do “II Simpósio Internacional de Teoria Crítica
+e I Encontro Nexos: Teoria Crítica e Pesquisa
+Interdisciplinar – As Vicissitudes da Experiên-
+cia no mundo digital”, e por isso é apresen-
+tado para compor este dossiê. Além disso,
+procura lançar luz a respeito do trabalho que
+a rede de pesquisa Nexos tem desenvolvido
+a partir do reconhecimento das contradições
+do desenvolvimento tecnológico no mundo
+contemporâneo em tempos de neoliberalis-
+mo acadêmico,2 de flexibilização dos direitos
+sociais e espaços de trabalho que ganham
+nesse desenvolvimento tecnológico sua base
+material de realização, suprimindo diferenças
+e dando continuidade ao processo de coloni-
+zação dos diferentes grupos sociais.
+A realidade daquilo que se tem usado
+chamar de “novas mídias” perpassa nossa
+existência nas mais diversas ocasiões: desde a
+prática do trabalho físico e reflexão intelectual,
+às manifestações políticas – vide a efervescên-
+cia dos debates nas chamadas redes sociais vir-
+tuais, que cresceu exponencialmente a partir
+de junho de 2013 no Brasil3 –, desde o cotidiano
+nas cidades e no campo, aos eventos científi-
+cos, desde os “momentos de lazer” e entre-
+tenimento, ou “tempo livre”,4 até o momento
+de formação geral e profissional e de cuidado
+com a saúde e controle dos corpos – que sa-
+bemos que não é somente dos corpos e aqui
+também a separação entre corpo e mente que
+tanto marca nossa racionalidade ocidental ser-
+ve a uma visão enevoada daquilo que vivemos.
+Todas as cicatrizes que carregamos, no físico
+ou no metafísico, e aqui eu faço referência à
+metapsicologia, determinam-se mutuamente
+e fundamentam nossa existência.
+O tema “As Vicissitudes da Experiência
+no mundo digital” tem, ao menos, três ideias,
+as quais eu destaco nesse momento de aber-
+tura do nosso diálogo: a ideia de vicissitudes,
+a questão da experiência, e a realidade de um
+mundo digital. Iniciarei aqui pela última, na
+qual vou me deter um pouco mais para dela
+derivar questões sobre as possibilidades e
+as variações da experiência da subjetividade
+contemporaneamente.
+Mundo digital e suas significações
+O que significa falar em um “mundo di-
+gital”? A literatura sociológica/filosófica cos-
+tuma apresentar a definição de “digital” em
+contraposição à de “analógico”. De Pierre
+Levy (2010) a Gilles Deleuze (2010), pensa-
+dores com atitudes diferentes em relação às
+chamadas “novas tecnologias” – do otimismo
+exacerbado, ao olhar mais crítico – e mais re-
+centemente Luis Mauro Sá Martino (2015) em
+seu estudo compilatório sobre as teorias das
+mídias digitais, “digital” e “analógico” são
+contrapostos de modo a evidenciar a eficácia
+e a complexidade de uma lógica mediadora
+das nossas relações que se tornou não a úni-
+ca, mas a hegemônica nos últimos anos com
+o advento dos computadores e da internet.
+Pode parecer trivial iniciar aqui por essa con-
+ceitualização, mas essa trivialidade se revela
+importante de ser recuperada quando per-
+cebemos que nela estão alicerçados nossos
+modos de aprender, interagir, se relacionar,
+pensar, agir, existir hoje.
+No auge de seu otimismo em relação à
+internet, Levy (2010) nos apresenta o digital
+como a informação que foi traduzida em nú-
+meros – dígitos –, seja ela uma informação
+na forma de texto, imagem, ou som. “Quase
+todas as informações podem ser codificadas
+dessa forma”,5 diz ele: as letras do alfabeto,
+as imagens e fotografias, os sons e músicas:
+toda informação que “pode ser explicitada ou
+medida, pode ser traduzida digitalmente”.6
+Mais à frente ele complementa: e “todos os
+números podem ser expressos em linguagem
+binária, sob a forma de 0 e 1”.7 Os números co-
+dificados em linguagem binária são gravados
+e transmitidos por dispositivos diversos (atra-
+vés de fios elétricos, circuitos eletrônicos,
+fitas magnéticas, fibras óticas, discos óticos,
+moléculas biológicas etc.) e, executados por
+circuitos eletrônicos especializados, são tra-
+duzidos em sentido inverso, manifestando-se
+como texto, imagem e som novamente. Esta
+é, também para Martino, uma das caracterís-
+ticas principais do digital: “dados transforma-
+dos em sequências de números interpretados
+por um computador”.8
+A diferença em relação à forma analó-
+gica de comunicação de informações estaria,
+para Levy, principalmente na confiabilidade
+do digital e na possibilidade de reprodução
+e transmissão continuada sem o perigo de
+uma perda ou degeneração da informação:
+“A informação analógica é [...] representada
+por uma sequência contínua de valores. No
+entanto, a informação digital usa apenas dois
+valores, nitidamente diferenciados, o que tor-
+na a reconstituição da informação danificada
+incomparavelmente mais simples”.9 Além disso, o processamento automático, rápido, pre-
+ciso e em grande escala do digital representa,
+para Levy (2010), outra qualidade indiscutível.
+Martino (2015), por sua vez, aponta que a
+transformação de dados em números leva ao
+surgimento de uma série de características es-
+pecíficas inexistentes na tecnologia analógica
+e que passam a ser conceitos-chave, como:
+barreira digital, ciberespaço, convergência,
+cultura participativa, inteligência coletiva, in-
+teratividade, interface, segurança e vigilância,
+ubiquidade, velocidade e virtualidade.
+No polo crítico da análise da hegemonia
+do digital está Deleuze, que relaciona o analó-
+gico às sociedades disciplinares, e o digital às
+sociedades de controle que “operam por má-
+quinas [...] de informática e computadores”10
+resultadas tanto de uma evolução tecnológi-
+ca, quanto de uma mudança do capitalismo
+– que passa a ser não mais de produção, mas
+de sobreprodução – seu eixo pende da fábrica
+para o mercado de serviços. “[...] os diferen-
+tes modos de controle, os controlatos, são
+variações inseparáveis, formando um sistema
+em geometria variável cuja linguagem é nu-
+mérica (o que não quer dizer necessariamen-
+te binária)”11 e funcionam como uma modula-
+ção. Os computadores e demais dispositivos
+tecnológicos digitais presentes no nosso co-
+tidiano atualmente não apenas operam pela
+linguagem numérica, como pela lógica biná-
+ria. São os chamados computadores clássicos,
+que operam por bits de 0 e 1.
+Iniciativas no âmbito da inteligência ar-
+tificial, por exemplo, aqueles no âmbito da
+linguagem natural12 e da lógica fuzzy,13 ten-
+tam superar esse binarismo seja por uma
+linguagem mais próxima ao cotidiano, seja
+estabelecendo modulações infinitas entre
+0 e 1, inserindo a possibilidade de “capturar
+informações vagas”, nem totalmente verda-
+deiras, nem totalmente falsas. Além disso,
+hoje a computação quântica já promete ser
+um “novo capítulo na revolução da informação”, pois opera para além dos dois estados
+0 e 1, incluindo o 01 e o 10 (princípio de con-
+tradição/paradoxo), com a ideia de compre-
+ender os chamados “aspectos fundamentais
+da natureza”. “A natureza computa”,14 diz o
+vice-presidente da IBM. A IBM indica que em
+cerca de 10 anos teremos acesso a dispositi-
+vos quânticos capazes de provocar uma revo-
+lução no âmbito do conhecimento e construir
+uma sociedade muito mais avançada do que
+a atual com a ajuda de computadores mais in-
+teligentes do que os seres humanos.15 Aqui a
+inteligência está ligada a ideia de calcular, de
+analisar e compreender o mundo através de
+modelos matemáticos e de ampliar exponen-
+cialmente o leque de fenômenos (naturais e
+sociais) que podem ser previstos e simulados
+com exatidão.
+No dia 4 de maio de 2016, a IBM dispo-
+nibilizou uma versão teste em nuvem de seu
+computador quântico. A empresa afirma que
+com ele:
+Irrompe-se uma teoria totalmente
+quântica e uma tecnologia de pro-
+cessamento de informação que nos
+permitirá realizar alguns cálculos
+que levariam mais do que a idade do
+universo para serem realizados em
+um computador clássico; e proces-
+sar informações de outras maneiras
+que são tão novas e diferentes que
+elas não podem nem mesmo ser de-
+vidamente descritas, muito menos
+realizadas, dentro do modelo clássi-
+co. A IBM Quantum Experience repre-
+senta o nascimento da computação
+em nuvem quântica, oferecendo aos
+estudantes, pesquisadores e entu-
+siastas da ciência acesso em nuvem
+à plataforma de computação quânti-
+ca experimental da IBM, permitindo
+aos usuários executar algoritmos e
+experiências, o trabalho com bits
+quânticos (qubits), e explorar tutoriais e simulações em torno do que
+poderia ser possível com a computação quântica.16
+A IBM Quantum Experience é um
+laboratório virtual, onde pesquisadores e
+curiosos podem executar seus algoritmos vir-
+tualmente, diretamente nos processadores
+quantum localizados em New York. É claro que
+os dados registrados nessa “livre utilização”
+se convertem em correções e aperfeiçoamen-
+tos na tecnologia; que pode ser adquirida por
+cerca de 15 milhões de dólares (embora ainda
+em testes). O Google é uma das empresas que
+já possuem esse computador.17 Não posso
+deixar de lembrar uma passagem da Dialética
+do Esclarecimento, em que os autores já nos
+avisam: “O que os homens querem aprender
+da natureza é como empregá-la para dominar
+completamente a ela e aos homens”.18
+Esta que apresento aqui é, obviamente,
+uma visão crítica do desenvolvimento tecno-
+lógico digital em nossa sociedade, ancorada
+principalmente na ideia de que as tecnolo-
+gias existentes não podem ser consideradas
+neutras, mas sim carregadas de valores que
+definem – conscientemente ou não – modos
+e estilos de vida específicos; a tecnologia é
+estruturada e estruturante de estilos de vida.
+Feenberg (2013) apresenta quatro perspecti-
+vas contemporâneas concernentes à Filosofia
+da Tecnologia: o determinismo, que conside-
+ra o desenvolvimento tecnológico neutro e
+autônomo, cujo sentido é sempre do avanço
+e aprimoramento na História; o instrumenta-
+lismo, que caracteriza certa visão usual mo-
+derna a partir de uma fé liberal no progresso
+perseguido por sujeitos livres que controlam
+a tecnologia; o substantivismo, que realiza
+uma crítica distópica a partir de uma visão ao
+mesmo tempo determinista, mas que avança
+sobre a não neutralidade da tecnologia; e a te-
+oria crítica, que reconhece as consequências
+catastróficas do desenvolvimento tecnológico que temos, mas percebe a possibilidade
+de conquista de liberdade na tecnologia, por
+meio de uma intervenção democrática, cuja
+realização depende de um conhecimento his-
+tórico, político e técnico19 dos artefatos que
+medeiam a nossa existência.20
+Meios de comunicação
+e história social
+Historiadores dos meios de comunica-
+ção, como Armand e Michèle Mattelart (2002)
+e Tim Wu (2012), são unânimes em afirmar que
+desde o início dos tempos cada nova invenção
+relativa à comunicação foi acompanhada de
+entusiasmo e esperança no desdobramento
+de possibilidades de libertação: como “vetor
+Aqui me aproximo da noção grega de Techné, que
+caracteriza um conhecimento que se associa a uma
+forma de poiesis (produção do mundo pelos seres
+humanos através de seus artefatos materiais, culturais,
+estéticos etc.) e que inclui um propósito orientador
+dessa produção, concebendo como indissociável a
+relação entre meios e fins, a produção da sociedade
+e o questionamento de seu objetivo. Concebo que,
+como apresentou Horkheimer (2002), na história
+do desenvolvimento tecnológico e científico da
+humanidade razão objetiva e razão subjetiva se
+dissociaram na busca de neutralidade e realização
+do progresso. Mas, esse percurso não ocorreu sem
+que fora preservada a valoração na ideia mesma de
+neutralidade. Rapidamente neutralidade passou a
+significar manutenção da estrutura social burguesa.
+Avanço em relação ao que Feenberg (2010) propõe
+para uma Teoria Crítica da Tecnologia, na medida
+em que ele exclui dessa teoria pensadores como
+Theodor Adorno e Max Horkheimer, incluindo
+Herbert Marcuse, de quem foi estudante nos anos
+1960. As contradições do pensamento do próprio
+Feenberg sobre sua proposta de uma Teoria Crítica
+da Tecnologia, que justifica sua escolha numa leitura
+bastante suspeita da Dialética do Esclarecimento
+e apenas nela e sua crítica habermasiana, será
+trabalhada de modo detalhado em outro momento.
+Por hora, é importante apenas frisar que, neste ensaio,
+não serão desconsiderados os trabalhos de Adorno
+e Horkheimer como pensadores de uma proposta
+Teoria Crítica da Tecnologia, na medida em que o olhar
+amplo para o projeto e a obra desses autores nos
+permite compreender que neles podemos encontrar
+não apenas a crítica a uma falsa neutralidade científica
+e tecnológica, mas apontamentos de possibilidades
+que foram pouco explorados por seus intérpretes e
+que podem nos ajudar a compreender que para eles a
+tecnologia é humana e historicamente dependente
+de progresso e realização da razão”.21 O que
+foram as cruzadas, senão acesso a informa-
+ções ao redor do mundo disponíveis para
+aqueles que tinham os mais avançados navios
+e sistemas de navegação? Não é por acaso
+que dizemos que “navegamos na internet”.
+Em 1978, Al Gore já havia indicado: a internet
+é a “super-estrada da informação”.22 Matte-
+lart & Mattelart (2002) nos lembram que isso
+também pode ser observado com as primei-
+ras construções de estradas pela Europa no
+período da Revolução Industrial (Século XVIII)
+– vias fluviais, marítimas e terrestres por onde
+notícias e mercadorias poderiam chegar com
+mais facilidade de um ponto a outro do con-
+tinente, propiciando, inclusive, a gestão das
+multidões que cresceram nas cidades.
+O surgimento das tecnologias de comu-
+nicação sempre esteve ligado ao controle, à
+dominação, à administração e à gestão – in-
+clusive com a imprescindível participação de
+intelectuais e pesquisadores de grandes uni-
+versidades; a suposta neutralidade da ciência
+precisa ser sempre questionada – esse é, an-
+tes de qualquer coisa, um espaço político. O
+telégrafo, primeiro sistema de tecnologia de
+comunicação a distância, surgiu em 1793. Sua
+finalidade era militar (MATTELART & MATTE-
+LART, 2002). A internet surgiu em 1963, no
+Pentágono (FEENBERG, 2010; WU, 2012). Ali,
+Licklider, um funcionário da Agência de Proje-
+tos de Pesquisas Avançadas do Departamento
+de Defesa Norte-americano, “imaginou uma
+grande rede universal pela qual as mentes de
+toda a humanidade poderiam se conectar via
+computadores”,23 de modo que esta poderia
+realizar todo o seu potencial ao estabelecer
+uma ligação homem-máquina: o surgimento
+dos ciborgues. O computador passou a ser
+algo além de uma máquina de calcular, um au-
+xiliar do homem nos processos de pensamen-
+to, um auxiliar analítico.
+Do telégrafo à internet, da AT&T ao Goo-
+gle, Wu (2012) nos apresenta uma dinâmica
+histórica das comunicações na era tecnoló-
+gica em que cada nova invenção/descoberta
+desafia a anterior impondo-se como revolu-
+cionária, para em seguida, ao conquistar seu
+espaço de hegemonia, se realizar em mono-
+pólios. Nesse sentido, ele fala da construção
+de impérios: os Impérios da Comunicação.
+Se olharmos com atenção o século
+XX, logo descobriremos que a inter-
+net não foi a primeira tecnologia da
+informação a mudar tudo para sem-
+pre. Na verdade, houve uma suces-
+são de mídias abertas e otimistas,
+mas cada qual, na devida época,
+tornou-se fechada e controlada
+por indústrias [...]. Nos últimos cem
+anos, muitas vezes a mudança radi-
+cal prometida por novas formas de
+receber a informação parecia ainda
+mais drástica que a de hoje [...] Em
+sua época, cada uma dessas inven-
+ções – que deveriam ser o ápice de
+todas as demais - passou por uma
+fase de novidade revolucionária e
+utopismo juvenil: todas iriam mu-
+dar nossas vidas, sem dúvida, mas
+não a natureza de nossa existência.
+Seja qual for a transformação social
+que qualquer uma delas possa ter
+causado, no fim, todas ocuparam
+seu devido lugar na manutenção da
+estrutura social em que vivemos,
+desde a Revolução Industrial.24
+Wu acredita em um padrão observá-
+vel. Para ele, “a cada par de décadas, surge
+uma nova tecnologia da comunicação, cheia
+de promessas e possibilidades brilhantes. Ela
+inspira uma geração inteira a sonhar com uma
+sociedade melhor [...] Porém [...] acaba sem-
+pre por revelar seus pontos fracos”25 – o prin-
+cipal deles tem sido a aliança constante entre
+Estado e força industrial dominante, capaz de
+“transformar uma tecnologia potencialmen-
+te destrutiva [da ordem atual] em ferramen-
+ta para perpetuar a dominação e adiar sua
+morte”.26 Wu (2012) fala em termos de uma
+Indústria Cultural e da Informação, uma in-
+dústria que determina de antemão o que será
+dito e quem será ouvido.
+Computadores em suas mais diversas
+formas como TV digital, tablets e Smartpho-
+nes – além da crescente internet das coisas,
+também desenvolvida pelo Pentágono – não
+são somente meios de comunicação, mas
+dispositivos de informação: são máquinas de
+calcular que expandiram sua potencialidade
+analítica para “auxiliar” seres humanos, co-
+nectando-os a uma rede universal; talvez um
+cérebro universal. Eles oferecem informações
+analisáveis e analisadas em termos de mode-
+los matemáticos e exigem de seu operador
+habilidade para se apropriar de sua lógica e
+utilizá-los de forma eficaz:
+Assim como você é o que você
+come, o que você pensa ou a ma-
+neira como pensa dependem da
+informação a que estiver exposto.
+Como você ouve as vozes dos líde-
+res políticos? De quem é a dor que
+você sente? De onde vêm suas as-
+pirações, seus sonhos de uma vida
+boa? Tudo isso provém de um am-
+biente de informação.27
+Subjetividades mediadas
+pelo artefato
+Em uma direção bastante próxima de
+Wu (2012), Sherry Turkle (2004) afirma: “As
+ferramentas que usamos para pensar modifi-
+cam o modo como pensamos”. Em seu livro
+The Second Self: computers and the human
+spirit, ela nos diz:
+[...] no mundo dos proprietários de
+computadores domésticos, no mun-
+do de virtuosos programadores co-
+nhecidos como “hackers”, e no mun-
+do dos especialistas em inteligência
+artificial, uma comunidade dedicada
+ao empreendimento de construção
+26
+27
+IBID., p. 39.
+IBID., p. 21.
+de “máquinas pensantes” e teorias
+computacionais da mente, as pes-
+soas assumiram que o computador
+sinaliza o desenvolvimento de algo
+novo. Esse “algo novo” assume mui-
+tas formas diferentes. A relação com
+um computador pode influenciar
+as concepções das pessoas sobre si
+mesmas, seus empregos, suas rela-
+ções com outras pessoas, e com as
+suas maneiras de pensar sobre os
+processos sociais. Pode ser a base
+para novos valores estéticos, novos
+rituais, nova filosofia, novas formas
+culturais.28
+A linguagem computacional é a da ló-
+gica matemática. Aquela considerada por
+filósofos, como Leibniz e Descartes, e por
+teóricos bastante estudados em Psicologia
+do desenvolvimento, como Piaget, a própria
+razão. Valerie Walkerdine (1988) denuncia o
+engodo dessa formulação. Para ela, a lógica
+matemática, considerada “razão natural”, é,
+na realidade, produzida com o intuito de levar
+à dominação da razão e da pessoa “racional”.
+A “razão natural” é, ela mesma, uma inter-
+pretação, uma representação, uma verdade
+produzida na relação entre as práticas mate-
+máticas e discursivas (WALKERDINE; 1988). A
+autora questiona a confiança na dominação
+do mundo físico, a ideia de autonomia inde-
+pendente e de governo racional. Quando nos
+deparamos, contudo, com a realidade do que
+podemos chamar de um mundo digital, per-
+cebemos que essa é a lógica que se enraíza –
+a partir de um processo de desenvolvimento
+histórico, político e econômico – na sociedade
+e seus membros hoje. Tal lógica não é a úni-
+ca existente nem foi a única produzida pelos
+pensadores e grupos humanos ao redor do
+mundo, mas se tornou hegemônica, descar-
+tando possibilidades outras de representação
+da realidade que foram consideradas mito,
+crença, ou pura irracionalidade, ou que sim-
+plesmente demonstraram menos “eficácia”
+na solução dos problemas que criamos.
+Nesse sentido, Turkle (2005) nos diz
+que o computador pode ser visto como um
+catalisador de cultura. Ele estimula e incenti-
+va a expansão da própria lógica que o gerou,
+alargando suas consequências em termos
+das possibilidades de experiências subjeti-
+vas. A autora aponta essas consequências
+em um sentido bastante similar a Adorno
+(2009), que derivou características de uma
+geração do rádio a partir das propriedades
+desse aparato, pensando a existência de
+uma mudança antropológica que ocorreria a
+partir dos avanços tecnológicos e das carac-
+terísticas dos meios de comunicação deles
+derivados. A perda da capacidade imagina-
+tiva/intuitiva, a fetichização dos aparatos e
+a adaptação irrestrita dos sujeitos a eles, já
+haviam sido apontadas na geração do rádio,
+ao lado da perda da capacidade de expres-
+são pela linguagem, da desintegração da au-
+toridade familiar e da relação técnica da pes-
+soa com seu próprio corpo, num processo de
+reificação: “Ele é o tipo de pessoa cujo ser
+está no fato de que ele não mais experien-
+cia qualquer coisa por si mesmo, mas deixa
+o aparato todo poderoso e opaco ditar todas
+as experiências para ele”.29
+Para Adorno, teriam sido cinco as mudan-
+ças na esfera social que propiciaram o desen-
+volvimento desse novo tipo antropológico:
+1. A falta de imagens artísticas ofere-
+cidas às crianças, que não imagens técnicas
+como as de carros, aviões etc. – isso porque
+para Adorno o processo de sublimação é im-
+possibilitado pela ausência de um repertório
+objetivo de imagens com as quais dialogar e
+o arrefecimento desse repertório objetivo
+seria acompanhado pela diminuição da imagi-
+nação subjetiva – o que manteria as pessoas
+dentro dos limites do existente. Além disso,
+o definhamento do mundo das imagens seria
+acompanhado pelo da linguagem e da capaci-
+dade de expressão por essa via.
+2. A diminuição do número de objetos
+sob os quais os homens operariam uma ação
+real. A mecanização dos objetos força o su-
+jeito a se adaptar, a se subordinar aos instru-mentos de uso cotidiano – o que inclui aque-
+les utilizados no tempo livre.
+3. Mudança estrutural no processo de
+trabalho, no qual a prática ou a experiência
+foram substituídas pela quantificação e pela
+reificação dos processos, o que inclui os tra-
+balhos intelectuais.
+4. Desintegração da autoridade familiar,
+o que atinge o desenvolvimento infantil em
+sua profundidade. Na medida em que a fa-
+mília não é mais a agência mediadora entre a
+sociedade e o indivíduo, deixando de ser seu
+escudo projetivo, a sociedade tem se aproxi-
+mado do sujeito de forma direta, dificultando
+sua formação mesma.
+5. Quantificação tecnológica do corpo
+gerada pela mudança na relação estabelecida
+entre as pessoas e seus próprios corpos.
+Turkle (2004) aponta, contudo, que
+com os computadores se sedimenta ainda
+mais a dificuldade de reconhecer a possibili-
+dade de existência da ambivalência/conflito,
+que passa a ser compreendida apenas como
+um erro no processamento de informação,
+quando se pensa o cérebro humano como
+correlato ao sistema computacional clássico.
+O problema no “significado” é substituído
+por um problema de “mecanismo”. A psicó-
+loga social do MIT relembra nesse momen-
+to a intervenção de uma estudante em uma
+das primeiras disciplinas que ministrou como
+professora ali, na década de 1970. Eles esta-
+vam trabalhando em sala de aula o livro So-
+bre a psicopatologia da vida cotidiana, e dis-
+cutiam o exemplo em que o presidente do
+parlamento austríaco abria a sessão da se-
+guinte forma: “Senhores Deputados; Cons-
+tato a presença dos membros dessa casa
+em quorum suficiente e, portanto, declaro
+encerrada a sessão!”30 Para Freud (2006), o
+lapso cometido pelo presidente, que troca-
+ra “aberta” por “encerrada”, resulta de uma
+contradição no interior dele mesmo, na me-
+dida em que ele desejava em segredo encer-
+rar a sessão. Mas, a estudante não aceitou
+essa interpretação e ofereceu sua própria
+leitura do caso, a partir da ideia de que o cérebro humano funciona a partir das mesmas
+regras da computação:31
+A mente, ela argumentou, é um
+computador. E, em um dicionário
+computacional – como nós temos
+na mente humana – “aberta” e “en-
+cerrada” são designadas pelo mes-
+mo símbolo, separadas por um sinal
+de oposição. “Encerrado” equivale
+a “menos iniciado”. Substituir “en-
+cerrada” por “aberta” não requer
+a noção de ambivalência ou confli-
+to. “Quando o presidente fez essa
+substituição”, ela disse, “um bit
+caiu, um sinal de menos foi perdido.
+Houve uma oscilação de energia.
+Sem problema.”32
+A dificuldade em lidar com um mundo in-
+compreensível e repleto de contradições que
+se sedimentam subjetivamente já havia sido
+revelada por Adorno et al. (1969), no estudo
+sobre a personalidade autoritária, como con-
+sequência de um processo semiformativo em
+que a informação – na forma de clichês – apa-
+31
+32
+Aqui a estudante se referia à computação clássica.
+Possivelmente, uma forma diferente de ver o cérebro
+humano como um computador possa emergir
+das linguagens de computação quânticas, onde a
+contradição – na forma da possível superposição dos
+valores 0 e 1 – tem papel importante. As consequências
+dessa lógica de cálculo modificada nas formas como
+compreendemos quem somos e nos comportamos
+frente a isso precisam ser investigadas. É certo que
+a computação quântica é ainda digital e é preciso
+verificar os tipos de contradições possíveis e suas
+formas de solução. A limitação da implementação
+dos computadores quânticos não demorará a ser
+superada. Será que, como no filme norte-americano de
+ficção científica “Her” (JONZE, 2013), aprenderemos
+com a máquina e superaremos nós mesmos? Ou, como
+nos mostra a história dos meios de comunicação, a
+superação será bloqueada pelo modo de produção
+que sustenta e fomenta essa tecnologia desde sua
+base material e racional? Não seria surpreendente
+se, num futuro cuja semente já brota no agora, esse
+tipo de tecnologia aprofundasse a problemática da
+pós-verdade – mas quanticamente criada a partir do
+controle irrestrito dos computadores quânticos sobre
+a política, e economia e o conhecimento – tornando-a
+hegemônica nas (falsas)consciências e ações.
+TURKLE, 2004, p. B26, tradução do autor.
+rece como substituta da reflexão sobre a pró-
+pria sociedade por meio do esquematismo ad-
+jacente aos mecanismos da Indústria Cultural.
+No mundo digital – que reconhecemos como
+expansão daquela indústria –, essa questão
+parece apontar que a lógica booleana e os
+silogismos aos quais o computador responde
+com 0 ou 1, falso ou verdadeiro, aprofundam
+essa problemática e torna como que “natu-
+ral” a justificativa da suposta inexistência de
+contradições – a unidimensionalidade apare-
+ce como resultado de um binarismo naturali-
+zado na reificação de si mesmo sob a justifica-
+tiva da mais desenvolvida racionalidade.
+Além disso, para a autora, a tecnologia
+computacional encoraja mudanças no pensa-
+mento em seis áreas: 1. Na concepção de pri-
+vacidade e naturalização da “transparência”;
+2. Na confusão entre avatares/personagens
+e si mesmo; 3. Na substituição do conteúdo
+pela produtividade (cultura do PowerPoint
+– e hoje, Prezi); 4. Na substituição do pensar
+pelo processamento de palavras (diferença
+entre escrever na máquina ou a mão e no
+computador); 5. Na valorização de uma trans-
+parência na interface que corresponde a uma
+opacidade epistêmica (não precisamos saber
+como funciona o computador, contanto que
+seu uso seja “intuitivo”); e 6. Na simulação
+e seu mal-estar – na passividade gerada por
+essa opacidade; na medida em que ela deixa
+subentendido que “nossas ferramentas car-
+regam mensagens que estão além do nosso
+entendimento”.
+Segundo Turkle, “as simulações compu-
+tacionais por um lado habilitam seus usuários
+a pensar sobre fenômenos complexos como
+dinâmicos. Mas, por outro, elas também nos
+habituam a sistemas manipulativos cujas ideias
+principais nós não entendemos e que podem
+não ser verdade”.33 Os jogos de videogame são
+um exemplo desse caso: eles nos habilitam a
+desenvolver o raciocínio a partir de uma con-
+figuração de problemas que devem ser trans-
+postos, mas atuam dentro da dicotomia medo/
+segurança – perigo/dominação.
+Adorno chamou os ouvintes de “gera-
+ção do rádio”; Turkle chama os sujeitos con-
+temporâneos de computer people – para ela,
+as tecnologias da informação são tecnologias
+de identidade. Se, inicialmente essa nomen-
+clatura era utilizada para denominar aqueles
+que trabalhavam diretamente com progra-
+mação, hoje ela diz respeito ao conjunto da-
+queles que vivem em uma sociedade da in-
+formação tecnológica e digital, e que, mesmo
+como “usuários” atuam de forma definitiva
+na expansão e na manutenção de sua lógica
+e existência.
+Considerações finais
+É apenas aparente o descompasso
+entre o desenvolvimento tecnológico e
+científico, e o desenvolvimento humano.
+O desenvolvimento dos sujeitos nessa
+sociedade acompanha o desenvolvimento
+técnico e científico em seu interior – apenas
+aqueles que acreditam na mais ampla
+racionalidade desse sistema podem ainda se
+surpreender com seus resultados em termos
+humanos (e também sociais, e também eco-
+lógicos). Como Marcuse (2015) apontou em
+suas aulas de Paris de 1974, a nova subjetivi-
+dade produzida pelo capitalismo protoliberal
+é mais eficientemente integrada na produção
+do próprio capitalismo: a consciência está no
+nível das condições objetivas.
+Isso não significa que as pessoas são
+“dóceis” ou que não há mais luta de classes,
+luta por construir um mundo da liberdade.
+É verdade que a luta de classes é gerencia-
+da pelas grandes corporações, mas Marcuse
+reconhece a necessidade de uma consciência
+radical que seja capaz de se colocar à frente
+das condições objetivas e antecipar possibili-
+dades. Contudo, essa consciência, para não se
+realizar também como falsa consciência, não
+pode se recusar a ver as mudanças efetiva-
+mente ocorridas na sociedade e no capitalis-
+mo. Ela deve partir de si mesma.
+No mesmo trabalho em que descreve a
+geração do rádio, Adorno afirma:
+Há uma razão para assumir que
+a perda de algumas habilidades
+é acompanhada da liberação de
+outras, e isso é precisamente o que
+as leva a executar mudanças que
+nunca teriam sido possíveis para
+os antigos “indivíduos”. A quebra
+do muro monadológico, que en-
+cerrava cada indivíduo dentro de
+si mesmo na era liberal, é a maior
+fonte de esperança.34
+Adorno pensa em termos de uma edu-
+cação que leve em consideração os aparatos
+mediadores e o conhecimento de suas carac-
+terísticas, colocando-os de modo claro, inves-
+tigando suas consequências e não inebriando
+seus “usuários” a respeito de sua pretensa
+qualidade emancipatória intrínseca. Apenas
+através do reconhecimento sistemático e sin-
+cero desses aparatos poderemos libertá-los
+e libertar-nos de seus/nossos próprios mitos.
+Turkle (2004) fala em termos de reconstruir
+a cultura em torno da tecnologia da informa-
+ção, uma nova cultura na qual as ideias sobre
+a natureza da dominação não sejam absolutas
+e na qual sejamos capazes de superar os bi-
+narismos. Feenberg (2010) aponta para a ne-
+cessidade de uma democratização na esfera
+tecnológica. Para ele, grupos sociais caracteri-
+zados por minorias podem e devem se utilizar
+da rede de computadores como esfera públi-
+ca na luta por direitos.
+Contudo, quando hoje vemos nas redes
+sociais virtuais expressões do mais alto grau de
+conservadorismo e fascismo – mesmo entre
+aqueles que se pretendem libertários –, não
+podemos nos esquecer desses apontamentos
+– da relação bastante próxima que capitalismo
+e fascismo desenvolveram histórica e filoso-
+ficamente. “‘Quem não quer falar do capita-
+lismo deveria calar-se também a respeito do
+fascismo’, disse Max Horkheimer se opondo às
+tentativas de teorizar sobre o nacional-socialis-
+mo sem ver sua íntima relação com a forma de
+produção capitalista.”35 Quem não quer falar
+sobre o capitalismo, deveria calar-se também
+em relação à violência e ao sectarismo, à des-
+sensibilização e à frieza burguesa que tanto se
+faz ver nas interações digitais.
+É preciso falar, por fim, que uma Teoria
+Crítica da tecnologia precisa reconhecer as
+contradições de seu objeto. A apresentação
+continua sendo base importante para análise.
+Por meio dela ficamos atentos às armadilhas
+de um pensamento entusiasta, mas também
+de um determinismo sem saída. Não é disso
+que se trata. O destino da humanidade depen-
+de de nossa influência direta na sociedade, e
+essa influência se realiza como práxis na me-
+dida em que transformações se tornam pos-
+síveis também na consciência. A gestão das
+massas apenas é um fato, porque delas vêm
+a real determinação da sociedade. Volto aqui,
+mais uma vez, a Marcuse (2015). Se o poder
+decisório sobre o destino da humanidade não
+estivesse nas mãos da grande maioria da po-
+pulação, tanta tecnologia não precisaria ser
+desenvolvida para manter essa maioria sub-
+metida a determinados padrões de pensa-
+mento e ação.
+A modificação da internet por usuários
+– para além do controle dos especialistas –
+pode levar a um potencial latente que desco-
+nhecemos? A abertura dos meios não deixa
+de ter interesses tanto comerciais, quanto
+humanitários. Existem, de fato, grupos que
+operam na rede na direção de “repolitizar” a
+tecnologia; a revolução está sempre latente.
+O que falta para a realizarmos? Aponto aqui
+para a ideia de que a revolução no âmbito
+tecnológico precisaria não apenas ser crítica,
+mas principalmente estética, pensando na
+associação entre Logos e Eros, que tão bela-
+mente Adorno (1997) aponta como necessá-
+ria em sua Teoria Estética, para a realização de
+um conhecimento liberto, lúdico e compro-
+metido com a vida.
+Referências
+ADORNO, T. W. Tempo Livre. In: Adorno, T. W. Palavras e sinais: modelos críticos 2. Petrópolis:
+Vozes, 1995.
+______. Aesthetic Theory. Trad. Robert Hullot-Kentor. Minneapolis: University of Minnesota
+Press, 1997.
+______. The problem of a new type of human being. In: Current of music. Cambridge/Malden:
+Polity Press, 2009.
+______. FRENKEL-BRUNSWIK, E.; LEVINSON, D. J.; SANFORD, R. N. The authoritarian personal-
+ity. New York: WW Norton, 1969.
+BERI, C.; TELLO, C. La interdisciplinariedad como “contrafuego” al neoliberalismo académico.
+IV Jornadas de Sociología de la UNLP, 23 al 25 de noviembre de 2005. La Plata, Argentina. La Ar-
+gentina de la crisis: Desigualdad social, movimientos sociales, política e instituciones. En Memo-
+ria Académica. Disponível em: http://www.memoria.fahce.unlp.edu.ar/trab_eventos/ev.6673/
+ev.6673.pdf. Acessado em 23/10/2016.
+CASTELLS, M. Posfácio à edição brasileira. In: Redes de indignação e esperança: movimentos
+sociais na era da internet. Rio de Janeiro: Zahar, 2013.
+DELEUZE, G. Post-scriptum sobre as sociedades de controle. In: Conversações (1972-1990). São
+Paulo: Ed. 34, 2010.
+FEENBERG, A. Bases teóricas para a democratização e a filosofia da tecnologia. In: Ciclo de Con-
+ferências Teoria Crítica da Tecnologia – Parte 1. Brasília: UNB, 2010. Disponível em https://www.
+youtube.com/watch?v=2ofaot-XAsw. Acessado em 24/10/2016.
+FEENBERG, A. O que é filosofia da tecnologia? In: Ricardo T. Neder (Org.). A teoria crítica de
+Andrew Feenberg: racionalização democrática, poder e tecnologia. Brasília: Observatório do
+Movimento pela Tecnologia Social na América Latina / CDS / UnB / Capes, 2013 (2. ed.).
+Impulso, Piracicaba • 27(69), 13-24, maio-ago. 2017 • ISSN Impresso: 0103-7676 • ISSN Eletrônico: 2236-9767
+23FREUD, S. Sobre a psicopatologia da vida cotidiana [1901]. Rio de Janeiro: Imago, 2006.
+GANDLER, S. Fragmentos de Frankfurt: ensayos sobre la Teoría Crítica. México: Siglo XXI, 2009.
+HORKHEIMER, M. Eclipse da Razão. Trad. Sebastião Uchoa Leite. São Paulo: Centauro, 2002.
+HORKHEIMER, M.; ADORNO, T. W. Dialética do Esclarecimento: fragmentos filosóficos. Rio de
+Janeiro: Zahar, 1985.
+IBM Quantum Computing. Disponível em http://www.research.ibm.com/quantum/. Acessado
+em 24/10/2016.
+JONZE, S. [Dir.] Her. (Filme). Hollywood: Warner Bros. Pictures, 2013.
+LÉVY, P. Cibercultura. São Paulo: Ed. 34, 2010.
+MARTINO, L. M. S. Teoria das mídias digitais: linguagens, ambientes e redes. Petrópolis: Vozes,
+2015.
+MATTELART, A.; MATTELART, M. História das teorias da comunicação. São Paulo: Edições Loyo-
+la, 2002.
+PEREIRA, S. L. Processamento de linguagem natural. s/d. Disponível em: http://www.ime.usp.
+br/~slago/IA-pln.pdf. Acessado em 23/10/2016.
+PINHO, J. B. Relações públicas na internet: técnicas e estratégias para informar e influenciar
+públicos de interesse. São Paulo: Summus, 2002.
+PUELLO-SOCARRÁS, J. F. Un ensayo sobre la depravación total. Nuevo Neoliberalismo Acadé-
+mico y Capitalismo ‘por posesión’. In: Revista Izquierda, n. 14, ago. 2011. Disponível em http://
+www.espaciocritico.com/sites/all/files/izqrd/n0014/izq0014_a03.pdf. Acessado em 23/10/2016.
+RIGNEL, D. G. S.; CHENCI, G. P.; LUCAS, C. A. Uma introdução à lógica fuzzi. In: Revista Eletrôni-
+ca de Sistemas de informação e gestão tecnológica, v. 1, n. 1, 2011. Disponível em http://www.
+logicafuzzy.com.br/wp-content/uploads/2013/04/uma_introducao_a_logica_fuzzy.pdf. Aces-
+sado em 23/10/2016.
+TURKLE, S. How computers change the way we think. In: The chronicle of higher education,
+v. 50, Issue 21, p. B26, 30 jan. 2004. Disponível em http://www1.udel.edu/educ/whitson/897s05/
+files/turkle. Acessado em 24/10/2016.
+______. The second Self: computers and the human spirit. Cambridge/London: MIT Press, 2005.
+WALKERDINE, V. The mastery of reason: cognitive development and the production of ratio-
+nality. London/New York: Routledge, 1988.
+WU, T. Impérios da comunicação: do telefone à internet, da AT&T ao Google. Rio de Janeiro:
+Zahar, 2012.
+Dados da autora
+Deborah Christina Antunes
+Doutora em Filosofia pela Universidade Federal de São Carlos. Professora Adjunta do curso de
+Psicologia da Universidade Federal do Ceará. Fortaleza/CE - Brasil deborahantunes@ufc.br
+Submetido em: 10-4-2017
+Aceito em: 31-7-2017
+24
+Impulso, Piracicaba • 27(69), 13,24, maio-ago. 2017 • ISSN Impresso: 0103-7676 • ISSN Eletrônico: 2236-9767
